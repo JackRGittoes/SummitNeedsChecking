@@ -22,4 +22,4 @@ The algorithm to use for the checksum is as follows:
 Your function is only required to return true if the supplied reference is valid or false if not.
 
 
-All code was completed in 37 minutes.
+(All code was completed in 37 minutes.)
